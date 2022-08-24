@@ -1,6 +1,6 @@
 - 👋 Hello , I’m Anurag
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web dev -> javascript
+- 🌱 I’m currently learning web dev -> React js
 - 📫 How to reach me ? dm me at insta : @anurag__kochar
 
 
