@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Kochar</h1>
 <h3 align="center">A 19 yo Explorer who is currently exploring Blockchain dev. and Content Creation</h3>
 
-- 🔭 I’m currently working on [Twitter Clone - next js](https://github.com/Anurag-Kochar-1/twitter-clone-nextjs-1)
+- 🔭 I’m currently working on [Medium Clone - next js](https://github.com/Anurag-Kochar-1/medium-clone-nextjs-1)
 
 - 🌱 I’m currently learning **Next JS**
 
