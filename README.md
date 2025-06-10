@@ -1,2 +1,1 @@
-- [Current active personal project: A web-based operating system](https://os.anuragkochar.com/)
-- [Mini-projects on Twitter](https://x.com/anurag__kochar)
+Building [100xInterview](https://x.com/100xinterview)
